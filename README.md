@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-My first repo on GitHub
+ Uh, yea, not really sure how this works...
